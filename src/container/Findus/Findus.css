@@ -1,0 +1,15 @@
+
+.app__background {
+    background: var(--color-black);
+    border: .5rem solid var(--color-golden);
+}
+
+h1 {
+    color: var(--color-golden);
+}
+
+.app__wrapper_img img {
+    object-fit: cover ;
+    height: 500px ;
+    width: 450px ;
+}
