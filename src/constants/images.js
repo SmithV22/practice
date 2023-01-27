@@ -1,8 +1,5 @@
 
-import  award01 from '../assets/award01.png' ;
-import  award02 from '../assets/award02.png' ;
-import  award03 from '../assets/award03.png' ;
-import  award05 from '../assets/award05.png' ;
+
 import bg from '../assets/bg.png' ;
 import neia_logo from '../assets/neia_logo.png' ;
 import thinking from '../assets/thinking.png' ;
@@ -20,10 +17,7 @@ import map from '../assets/map.png' ;
 import people from '../assets/people.mp4' ;
 
 export default {
-    award01,
-    award02,
-    award03,
-    award05,
+    
     bg,
     neia_logo,
     thinking,
